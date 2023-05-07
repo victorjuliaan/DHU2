@@ -1,6 +1,6 @@
 let bokita = "Aguante Boca";
 
-let tuElMasGrande = "aguante" + bokita
+let tuElMasGrande = "aguanteeee" + bokita
 
 
 console.log(bokita,tuElMasGrande);
